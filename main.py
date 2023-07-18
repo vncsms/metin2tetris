@@ -1,6 +1,5 @@
 from tetris import Tetris
 from piece import Piece
-from copy import deepcopy
 import random
 random.seed(111)
 
